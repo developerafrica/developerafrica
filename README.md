@@ -1,21 +1,24 @@
-## DEVELOPER AFRICA
+## PETER RODRIGUES BUTAO 
 
-# WELCOME TO DEVELOPER AFRICA MW
+## CO-FOUNDER OF DEVELOPER AFRICA MW
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)WE ARE DEVELOPER AFRICA MW
-===========================================================================================================================================
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), i am peter rodrigues butao
+
+==================================================================================================================================
 
 ALL CODE SOLUTION AFRICAN
 -------------------------
+### This is what i do: 
+WEB DEVELOPMENT |  SOFTWARE ENGINEERING | UX/UI DESIGN | TUTORING PROGRAMMING LANGUAGES 
 
-WEB DEVELOPERS SOFTWARE ENGINEERS UX/UI DESIGNERS PROGRAMMING INSTRUCTORS
+*   🌍  based in MALAWI / LILONGWE
+*   🖥️  portfolio site :  [https://developerafricamw.com/](http://developerafricamw.netlify.app)
+*   📱📱 contact :  [0880164455](tel://0880164455)
+*   ✉️ email : [developerafricamw@gmail.com](mailto:developerafricamw@gmail.com)
 
-*   🌍  based in MALAWI
-*   🖥️  portfolio at [OUR SITE](http://developerafricamw.netlify.app)
-*   📱📱  contact at 0880164455
-*   ✉️  You can contact us at [developerafricamw@gmail.com](mailto:developerafricamw@gmail.com)### Skills 
-<p align="left">
+### Skills: 
+<p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
